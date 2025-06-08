@@ -1,10 +1,10 @@
 # testcase-on-Meesho
-📝 Project Description – Functional Testing on Meesho Website
+# Project Description – Functional Testing on Meesho Website
 This testing project focuses on performing functional testing on the Meesho website, a popular Indian e-commerce platform. The goal is to ensure that all core features work as expected and provide a seamless user experience. Testing was conducted from the perspective of a real user interacting with the website.
 
 The top 10 most important test cases were selected based on critical user flows such as login, product search, adding items to cart, placing orders, and managing user profile and orders. Each test case passed successfully during testing.
 
-Testing covered:
+# Testing covered:
 
 Homepage loading
 
@@ -22,7 +22,7 @@ Filters
 
 Customer support access
 
-Testing tools used:
+# Testing tools used:
 
 Excel Sheet: To document test cases
 
@@ -32,12 +32,4 @@ Manual Testing Approach: No automation used
 
 This testing ensures that the Meesho website performs all key user interactions correctly, helping to maintain a high-quality user experience and support business operations.
 
-Let me know if you want:
 
-A bug report template
-
-Excel file formatting
-
-A GitHub README file description
-
-Or a full testing report PDF/Word format.
